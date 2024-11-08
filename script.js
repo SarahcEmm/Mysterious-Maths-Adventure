@@ -45,7 +45,7 @@ const storyData = {
       choices: { "Continue your Quest": "continueQuest1" }
     },
     "blastOff": {
-      text: "Sandy is preparing his spaceship, the Math Explorer, for a journey through Math Galaxy. He needs to gather four special star gems to power his ship. Should Sandy take the Rainbow Route or the Starry Path?",
+      text: "Sandy is preparing his spaceship, the Maths Explorer, for a journey through Maths Galaxy. He needs to gather four special star gems to defeat the Number Nappers. Should Sandy take the Rainbow Route or the Starry Path?",
       image: "assets/images/Designer__21_-removebg-preview.png",
       choices: { "Rainbow Route": "rainbowRoute", "Starry Path": "starryPath" }
     },
