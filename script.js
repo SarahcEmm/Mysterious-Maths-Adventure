@@ -142,7 +142,7 @@ const storyData = {
     "wrong": {
       text: "The Number Nappers laugh and say, 'Try again!'",
       image: "assets/images/Designer__32_-removebg-preview.png",
-      choices: { "Try Again": "continueFindingStars" }
+      choices: { "Try Again": "continueQuest1" }
     },
     
   };
